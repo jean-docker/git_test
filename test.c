@@ -1,3 +1,6 @@
 #include <stdlib>
 
 int main()
+{
+	:
+}
